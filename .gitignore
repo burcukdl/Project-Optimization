@@ -1,0 +1,17 @@
+# Derleme dosyaları
+*.exe
+*.o
+*.obj
+*.out
+
+# Python cache dosyaları
+__pycache__/
+*.pyc
+
+# Sonuç dataları ve görseller
+results/
+*.csv
+
+# Geçici dosyalar
+*.log
+*.tmp
