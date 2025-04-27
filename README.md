@@ -59,10 +59,10 @@ git clone <https://github.com/burcukdl/Project-Optimization>
 ## Sample Results
 
 ### Training Loss Curve
-![Training Loss Curve](results/1all_optimizers_results.png)
+![Training Loss Curve](/results/2all_optimizers_results.png)
 
-### Test Accuracy Curve
-![Test Accuracy Curve](results/1all_tsne_results.png)
+### t-SNE Figure
+![t-SNE](/results/2all_tsne_results.png)
 
 ## License
 This project is for educational purposes only.
