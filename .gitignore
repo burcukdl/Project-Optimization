@@ -6,8 +6,8 @@
 __pycache__/
 *.pyc
 
-results/*.csv
+results/*
+!results/*.csv
 
 *.log
 *.tmp
-
